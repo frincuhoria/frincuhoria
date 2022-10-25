@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋🏻, I am Horia 👨🏻‍💻</h1>
+<h3 align="center">Hardworking and highly motivated individual with a great passion for the software engineering industry willing to learn new technologies that would help me develop professionally</h3>
 
-<!--
-**frincuhoria/frincuhoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⏳ I’m currently working on [Travel-guide-application](https://github.com/frincuhoria/Travel-guide-application)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React Query, Redux and Typescript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧐 I'm currently looking for an **Internship** or a **Job** as a **Front-End Developer** 
+
+- 💬 Ask me about **C/C++, Node, HTML/CSS, Javascript/Typescript and React**
+
+- 📬 How to reach me: **frincu.horia@yahoo.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/horia-mihai-frincu-30a896201/" target="blank"><img src="https://user-images.githubusercontent.com/87380334/197786299-3693eaa3-cc36-4646-b472-ee94bc1779bf.png" alt="LinkedIn_icon" width="40" height="40"/></a> &nbsp;
+<a href="https://www.instagram.com/frincu.horia/" target="blank" className="mr-2"><img src="https://user-images.githubusercontent.com/87380334/197788897-86341524-16ec-4d06-ada9-c10ac99c9ee3.png" alt="Instagram_icon" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://user-images.githubusercontent.com/87380334/197796624-190dcf91-a8bf-4465-bf92-62d6936391f2.svg" alt="C_programming" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/197796819-b39544f6-1463-44a1-a5d6-2813136a6157.svg" alt="C++_programming" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/197797394-7674eb7f-8883-4b40-9339-830bd72d866f.svg" alt="Java_programming" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/197797816-1d96f832-da88-4b15-b3b9-b950ec800ea2.svg" alt="HTML" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/197797858-2bb6cdb4-0f51-4df5-8c14-424201045a92.svg" alt="CSS" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/197798049-5cb91eed-edcb-4194-b08a-da9f770bac6c.svg" alt="Javascript" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/197798233-6231e466-7b28-466c-aab9-1b4ba57a3d63.svg" alt="Typescript" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/197797918-8f6634b9-89d7-4ea7-be53-ffd8b24a41a0.svg" alt="NodeJS" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/197797977-c9c98c15-d5d4-49ab-803f-fc06787e00c1.svg" alt="React" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/197798293-74cadb2b-7ac4-40bc-b0cb-f49502490f62.svg" alt="React_Redux" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/197798337-26cb709b-d42d-469a-8d37-58afae847eb0.svg" alt="Firebase" width="40" height="40"/> &nbsp;
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frincuhoria&show_icons=true&locale=en&layout=compact" alt="frincuhoria" /></p>
+
+
