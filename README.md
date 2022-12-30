@@ -1,13 +1,11 @@
 <h1 align="center">Hi there 👋🏻, I am Horia 👨🏻‍💻</h1>
 <h3 align="center">Hardworking and highly motivated individual with a great passion for the software engineering industry willing to learn new technologies that would help me develop professionally</h3>
 
-- ⏳ I’m currently working on [Travel-guide-application](https://github.com/frincuhoria/Travel-guide-application)
+- ⏳ I’m currently working on [Shop-Materom](https://github.com/szabizs/shop.git)
 
-- 🌱 I’m currently learning **React Query, Redux and Typescript**
+- 🌱 I’m currently learning **Vue** and **Laravel**
 
-- 🧐 I'm currently looking for an **Internship** or a **Job** as a **Front-End Developer** 
-
-- 💬 Ask me about **C/C++, Node, HTML/CSS, Javascript/Typescript and React**
+- 💬 Ask me about **HTML/CSS, Javascript/Typescript** and **React**
 
 - 📬 How to reach me: **frincu.horia@yahoo.com**
 
@@ -30,8 +28,10 @@
 <img src="https://user-images.githubusercontent.com/87380334/197797977-c9c98c15-d5d4-49ab-803f-fc06787e00c1.svg" alt="React" width="40" height="40"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/87380334/197798293-74cadb2b-7ac4-40bc-b0cb-f49502490f62.svg" alt="React_Redux" width="40" height="40"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/87380334/197798337-26cb709b-d42d-469a-8d37-58afae847eb0.svg" alt="Firebase" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/210061791-dd3c565f-1818-4032-b2e7-0881409d712e.svg" alt="Vue" width="40" height="40"/> 
+&nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/210061692-8d8dc308-3942-42fc-845b-6d03fc94f879.svg" alt="Laravel" width="40" height="40"/> &nbsp;
+<img src="https://user-images.githubusercontent.com/87380334/210061802-7a87943a-9131-40dc-8994-3560faf7b878.svg" alt="Postman" width="40" height="40"/> &nbsp;
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frincuhoria&show_icons=true&locale=en&layout=compact" alt="frincuhoria" /></p>
-
-
