@@ -34,4 +34,4 @@
 <img src="https://user-images.githubusercontent.com/87380334/210061802-7a87943a-9131-40dc-8994-3560faf7b878.svg" alt="Postman" width="40" height="40"/> &nbsp;
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frincuhoria&show_icons=true&locale=en&layout=compact" alt="frincuhoria" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frincuhoria&layout=compact&theme=vision-friendly-dark" alt="frincuhoria" /></p>
