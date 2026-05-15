@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋🏻, I'm Horia 👨🏻‍💻</h1>
 <h3 align="center">Passionate software developer focused on building scalable web applications with clean code and modern technologies</h3>
 
-- 🔭 Currently working with **Vue**, **Laravel**, **Elasticsearch**, and **Tailwind CSS** on complex, data-driven platforms
+- 🔭 Currently working with **Vue**, **Laravel**, **SAP**, **Elasticsearch**, and **Tailwind** on complex, data-driven platforms
 
 - ⚙️ Comfortable designing modular systems and implementing performant full-stack features
 
@@ -9,7 +9,7 @@
 
 - 💬 Happy to chat about **Vue**, **Laravel**, **ElasticSearch**, or clean architecture patterns in web development
 
-- 🏢 Work Project: [SHOP-Materom](https://github.com/szabizs/shop.git)
+- 🏢 Work Projects: [SHOP-Materom](https://github.com/szabizs/shop.git) • [APP-Materom](https://github.com/szabizs/comercial.git)
 
 - 📬 How to reach me: **frincu.horia@yahoo.com**
 
